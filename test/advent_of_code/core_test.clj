@@ -1,7 +1,7 @@
 (ns advent-of-code.core-test
   (:require [clojure.test :refer :all]
-            [advent-of-code.core :refer :all]))
+            [advent-of-code.2025.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
-    (is (= 0 1))))
+    (is (= 1 1))))

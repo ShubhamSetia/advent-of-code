@@ -1,7 +1,7 @@
-(ns advent-of-code.p1
+(ns advent-of-code.archive.p1
   "Advent of code problem1
   https://adventofcode.com/2019/day/1"
-  (:require [advent-of-code.core :as core]
+  (:require [advent-of-code.archive.core :as core]
             [clojure.string :as string]))
 
 
